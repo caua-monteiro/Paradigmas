@@ -36,12 +36,12 @@ Cada branch está organizada pelos exercicios dados em aula.
 
 As seguintes linguagens e ferramentas serão exploradas ao longo do semestre para exemplificar os paradigmas estudados:
 
-| Paradigma                 | Linguagem(ns) | Ferramentas/Ambiente          |
-| ------------------------- | :-------------: | ----------------------------- |
+| Paradigma                 | Linguagem(ns) |
+| ------------------------- | :-------------: |
 | **Imperativo** | `Python`  |
 | **Funcional** | `Haskell` |
 | **Orientado a Objetos** | `Java` |
-| **Lógico** | `Prolog` |                 |
+| **Lógico** | `Prolog` |
 
 *(**Nota:** O repositório esta sendo construidos com o passar das aulas).*
 
