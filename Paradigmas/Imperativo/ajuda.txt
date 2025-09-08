@@ -1,7 +1,0 @@
-def Maior(a: float, b:float, c:float):
-    if (a < b) and (a < c):
-        return a
-    elif (b < c):
-        return b
-    else:
-        return c
